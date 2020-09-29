@@ -147,3 +147,178 @@
 [28-Sep-2020 21:22:22 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/inpakt79/public_html/erp/listacasos.php on line 22
 [28-Sep-2020 21:22:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/inpakt79/public_html/erp/listacasos.php on line 21
 [28-Sep-2020 21:24:25 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/inpakt79/public_html/erp/listacasos.php on line 30
+[29-Sep-2020 09:14:58 America/Fortaleza] PHP Fatal error:  Class 'CPANEL' not found in /home2/inpakt79/public_html/erp/listacasos.php on line 7
+[29-Sep-2020 09:16:26 America/Fortaleza] PHP Fatal error:  Class 'CPANEL' not found in /home2/inpakt79/public_html/erp/listacasos.php on line 7
+[29-Sep-2020 09:24:07 America/Fortaleza] PHP Fatal error:  Class 'CPANEL' not found in /home2/inpakt79/public_html/erp/listacasos.php on line 6
+[29-Sep-2020 09:25:35 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/listacasos.php(7): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 09:28:23 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/listacasos.live.php(7): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 09:28:27 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/listacasos.live.php(7): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 09:33:23 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/listacasos.live.php(7): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 09:45:31 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/listacasos.live.php(7): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 09:46:19 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/listacasos.live.php(7): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 09:46:21 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/listacasos.live.php(7): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 09:49:33 America/Fortaleza] PHP Warning:  The use statement with non-compound name 'Cpanel' has no effect in /home2/inpakt79/public_html/erp/listacasos.live.php on line 7
+[29-Sep-2020 09:49:33 America/Fortaleza] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home2/inpakt79/public_html/erp/listacasos.live.php on line 7
+[29-Sep-2020 09:49:52 America/Fortaleza] PHP Warning:  The use statement with non-compound name 'Cpanel' has no effect in /home2/inpakt79/public_html/erp/listacasos.live.php on line 7
+[29-Sep-2020 09:49:52 America/Fortaleza] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ',' or ';' in /home2/inpakt79/public_html/erp/listacasos.live.php on line 7
+[29-Sep-2020 09:50:08 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/listacasos.live.php(7): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 10:08:26 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/listacasos.live.php(7): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 12:53:06 America/Fortaleza] PHP Warning:  require(usr/local/cpanek/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 2
+[29-Sep-2020 12:53:06 America/Fortaleza] PHP Warning:  require(usr/local/cpanek/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 2
+[29-Sep-2020 12:53:06 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'usr/local/cpanek/php/cpanel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 2
+[29-Sep-2020 12:53:30 America/Fortaleza] PHP Warning:  require_once(/usr/local/cpanek/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 2
+[29-Sep-2020 12:53:30 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanek/php/cpanel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 2
+[29-Sep-2020 12:53:32 America/Fortaleza] PHP Warning:  require_once(/usr/local/cpanek/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 2
+[29-Sep-2020 12:53:32 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanek/php/cpanel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 2
+[29-Sep-2020 12:53:38 America/Fortaleza] PHP Warning:  require_once(/usr/local/cpanek/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 2
+[29-Sep-2020 12:53:38 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanek/php/cpanel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 2
+[29-Sep-2020 12:53:47 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(4): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 12:53:49 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(4): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 12:54:15 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(4): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 12:54:28 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(4): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 12:55:01 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 12:55:16 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 12:55:38 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:01:12 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:01:27 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:15:36 America/Fortaleza] PHP Warning:  include(inpakta.com.br/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:15:36 America/Fortaleza] PHP Warning:  include(inpakta.com.br/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:15:36 America/Fortaleza] PHP Warning:  include(): Failed opening 'inpakta.com.br/cpanel/php/cpanel.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:15:36 America/Fortaleza] PHP Fatal error:  Class 'CPANEL' not found in /home2/inpakt79/public_html/erp/testeCreate.php on line 5
+[29-Sep-2020 13:16:09 America/Fortaleza] PHP Warning:  require_once(/inpakta.com.br/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:16:09 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/inpakta.com.br/cpanel/php/cpanel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:16:44 America/Fortaleza] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:16:44 America/Fortaleza] PHP Warning:  require_once(https://inpakta.com.br/cpanel/php/cpanel.php): failed to open stream: no suitable wrapper could be found in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:16:44 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'https://inpakta.com.br/cpanel/php/cpanel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:17:28 America/Fortaleza] PHP Warning:  require_once(br920.hostgator.com.br/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:17:28 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'br920.hostgator.com.br/cpanel/php/cpanel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:19:13 America/Fortaleza] PHP Warning:  require_once(/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:19:13 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/cpanel/php/cpanel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:25:05 America/Fortaleza] PHP Warning:  require_once(/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:25:05 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/cpanel/php/cpanel.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:25:18 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:32:01 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:32:51 America/Fortaleza] PHP Fatal error:  Uncaught RuntimeException: There was a problem fetching the env variablecontaining the path to the socket in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:32:54 America/Fortaleza] PHP Fatal error:  Uncaught RuntimeException: There was a problem fetching the env variablecontaining the path to the socket in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:41:59 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:42:54 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:42:59 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:44:11 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:44:11 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:44:50 America/Fortaleza] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'There was a problem fetching the env variablecontaining the path to the socket' in /usr/local/cpanel/php/cpanel.php:146
+Stack trace:
+#0 /home2/inpakt79/public_html/erp/testeCreate.php(5): CPANEL->__construct()
+#1 {main}
+  thrown in /usr/local/cpanel/php/cpanel.php on line 146
+[29-Sep-2020 13:48:00 America/Fortaleza] PHP Warning:  require_once(../init.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 13:48:00 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../init.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home2/inpakt79/public_html/erp/testeCreate.php on line 3
+[29-Sep-2020 14:02:37 America/Fortaleza] curl_exec threw error "OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to inpakta.com.br:2086 " for https://inpakta.com.br:2086/json-api/cpanel?cpanel_jsonapi_func=addsubdomain&cpanel_jsonapi_module=SubDomain&cpanel_jsonapi_version=2&domain=ovo&rootdomain=inpakta.com.br&dir=/public_html/subdominios/ovo
+[29-Sep-2020 14:36:21 America/Fortaleza] PHP Fatal error:  Call to undefined method Api::createSubdomain() in /home2/inpakt79/public_html/erp/listacasos.php on line 22

@@ -2,21 +2,9 @@
 	session_start();
 	ini_set('display_errors', 1);
 	require_once '../../apiConnection/api.class.php';
+	include '/usr/local/cpanel/php/cpanel.php';
 	$user = $_SESSION['user'];
-	function createDomain(){
-		$cpanel = new CPANEL(); // Connect to cPanel - only do this once.
-  
-// Create a subdomain.
-		$addsubdomain = $cpanel->api2(
-			'SubDomain', 'addsubdomain',
-				array(
-				'domain'                => 'subdomain',
-				'rootdomain'            => 'example.com',
-				'dir'                   => '/public_html/directory_name',
-				'disallowdot'           => '1',
-    )
-);
-	}
+
 	if(isset($_GET['save']) && $_GET['save'] == 'subdomain'){
 
 		$updateUser = array('nome' => $user->nome,'sobNome' => $user->sobNome, 'email' => $user->email, 
@@ -28,11 +16,11 @@
 		$url = 'https://inpaktaservice.herokuapp.com/cliente/'.$user->id;
 
 		$updated = Api::ApiPUT($url,json_encode($updateUser),$_SESSION['authToken']);
-		
+		echo $update;
 		switch ($updated) {
 			case '204':
-				createDomain();
-				break;
+				Api::createSubdomain($_POST['subDominio']);
+			break;
 			
 			case '403':
 					echo '<script>alert("Valide seu formato JSON!")</script>';
