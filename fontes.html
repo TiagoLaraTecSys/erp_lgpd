@@ -1,0 +1,213 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<header>
+
+	<meta title="Gestão consentimento"></meta>
+
+	
+
+	<meta charset="utf-8"></meta>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" ></script>
+
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" ></script>
+
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.4/css/select2.min.css" rel="stylesheet" />
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.4/js/select2.min.js"></script>
+
+	<script src="./script.js"></script>
+
+	<style>
+
+		@font-face{
+
+
+
+			src: url(fonts/VisbyCF-Bold.otf);
+
+			font-family: VisbyCF-Bold;
+
+			font-weight: bold;
+
+		}
+
+		@font-face{
+
+			src:url(fonts/VisbyCF-Medium.otf);
+
+			font-family: VisbyCF-Medium;
+
+			font-weight: bold;
+
+		}
+
+		#search{
+
+			height: 50px;
+
+			width: 80%;
+
+			background-color: rgba(196, 198, 199, 0.788);
+
+			opacity: 1;
+
+			padding: 5px 5px 5px 15px;
+
+			border-radius: 100px;
+
+			border: none;
+
+		}
+
+		#selector{
+
+			height: 50px;
+
+			width: 37%;
+
+			background-color: rgba(196, 198, 199, 0.788);
+
+			opacity: 1;
+
+			padding: 5px 5px 5px 15px;
+
+			border-radius: 10px;
+
+			border: none;
+
+		}
+
+		input:focus{
+
+			box-shadow: 0 0 0 0;
+
+   			border: 0 none;
+
+    		outline: 0;
+
+		}
+
+		#title{
+
+			font-size: 30px;
+
+			font-family: VisbyCF-Bold;
+
+		}
+
+		#description{
+
+			font-size: 16px;
+
+			font-family: VisbyCF-Medium;
+
+		}
+
+	</style>
+
+	<script>
+
+		$(document).ready(function(){
+
+			$(".select2").select2();
+
+		})
+
+		
+
+	</script>
+
+</header>
+
+<body id="myBody"style="background-color: #2BC6FC">
+
+
+
+	<form style="margin-left: 10%; margin-right: 10%; margin-top:5%; margin-bottom: 5%;">
+
+		<div class="card text-center" style="padding-left: 25%; padding-right: 25%;">
+
+			<!--      UgA Uga              -->
+
+				<div class="card-body">
+
+					<br><br>
+
+					<img src="assets/CompositeLayer@1X.png" alt="logo">
+
+					<br>
+
+					<br>
+
+					<br>
+
+					<h5 id="title" style="color: '#12ddc7c'" class="card-title" >Adicionar Fontes de Dados</h5>
+
+					<p id="description" class="card-text">Selecione fontes da dados para integrar com seus os Casos de Uso de Dados criados anteriormente.</p>
+
+						<br>
+
+						<select class="select2" id="selector" multiple="" tabindex="-1" style="display: none;">
+
+							<optgroup label="Email Marketing">
+
+								<option>Mailchimp</option>
+
+								<option>Constant Contact</option>
+								<option>ConvertKit</option>
+								<option>GetResponse</option>
+
+							</optgroup>
+
+							<optgroup label="ERP">
+
+								<option>SAP</option>
+								<option>TOTVS</option>
+								<option>NetSuite</option>
+
+
+							</optgroup>
+
+						</select>
+
+						<br>
+
+						<br>
+
+						<a href="setup2.html" class="btn btn-outline-primary col-3">VOLTAR</a>
+
+						<a 	href="setup3.html" 
+
+							class="btn btn-primary col-3" 
+
+							style="background-color: #2BC6FC;">
+
+							<span style="color:aliceblue;font-family: VisbyCF-Bold;">PRÓXIMO</span></a>
+
+					</div>
+
+					<br><br>
+
+
+					
+
+				</div>
+
+			
+
+		</div>
+
+	</form>
+
+</body>
+
+</html>

@@ -1,0 +1,149 @@
+[23-Sep-2020 15:11:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:11:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:11:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:13:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:13:41 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:14:15 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:14:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:14:40 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:14:43 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:15:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:15:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:15:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:15:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:15:56 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:15:57 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:16:13 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:16:30 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home2/inpakt79/apiConnection/api.class.php on line 3
+[23-Sep-2020 15:38:13 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 7
+[23-Sep-2020 15:38:43 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 7
+[23-Sep-2020 15:49:37 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 15:51:01 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 15:53:32 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 16:21:28 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 16:21:48 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 16:22:08 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 16:26:05 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 16:26:38 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 16:34:52 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 16:38:51 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 16:39:21 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 16:41:38 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/public_html/erp/teste.php on line 8
+[23-Sep-2020 17:50:24 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[23-Sep-2020 17:53:24 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[23-Sep-2020 17:54:28 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[23-Sep-2020 17:56:08 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[23-Sep-2020 17:56:40 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[23-Sep-2020 17:57:18 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[23-Sep-2020 17:57:51 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[24-Sep-2020 21:51:12 America/Fortaleza] PHP Warning:  require_once(../../api.class.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/login.php on line 3
+[24-Sep-2020 21:51:12 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../../api.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/login.php on line 3
+[24-Sep-2020 21:58:40 America/Fortaleza] PHP Warning:  require_once(../../api.class.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/login.php on line 3
+[24-Sep-2020 21:58:40 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../../api.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/login.php on line 3
+[24-Sep-2020 21:58:44 America/Fortaleza] PHP Warning:  require_once(../../api.class.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/login.php on line 3
+[24-Sep-2020 21:58:44 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../../api.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/login.php on line 3
+[24-Sep-2020 22:00:04 America/Fortaleza] PHP Warning:  require_once(../../api.class.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/login.php on line 3
+[24-Sep-2020 22:00:04 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../../api.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/login.php on line 3
+[24-Sep-2020 22:03:34 America/Fortaleza] PHP Fatal error:  Call to undefined function ApiConnectPOST() in /home2/inpakt79/public_html/erp/login.php on line 10
+[24-Sep-2020 22:09:34 America/Fortaleza] PHP Fatal error:  Call to undefined function ApiConnectPOST() in /home2/inpakt79/public_html/erp/login.php on line 10
+[24-Sep-2020 22:11:25 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[24-Sep-2020 22:11:25 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[24-Sep-2020 22:12:48 America/Fortaleza] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/inpakt79/public_html/erp/login.php on line 6
+[24-Sep-2020 22:13:04 America/Fortaleza] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/inpakt79/public_html/erp/login.php on line 6
+[24-Sep-2020 22:14:22 America/Fortaleza] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/inpakt79/public_html/erp/login.php on line 6
+[24-Sep-2020 22:14:46 America/Fortaleza] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/inpakt79/public_html/erp/login.php on line 6
+[24-Sep-2020 22:41:00 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[24-Sep-2020 22:41:58 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[24-Sep-2020 22:42:46 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[24-Sep-2020 22:45:37 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[24-Sep-2020 22:46:33 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[24-Sep-2020 22:48:19 America/Fortaleza] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home2/inpakt79/apiConnection/api.class.php on line 15
+[24-Sep-2020 22:49:33 America/Fortaleza] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home2/inpakt79/public_html/erp/login.php on line 14
+[24-Sep-2020 23:10:09 America/Fortaleza] PHP Warning:  require_once(../../apiConnect/api.class.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/org.php on line 3
+[24-Sep-2020 23:10:09 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../../apiConnect/api.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/org.php on line 3
+[24-Sep-2020 23:13:45 America/Fortaleza] PHP Fatal error:  Class 'Api' not found in /home2/inpakt79/public_html/erp/org.php on line 8
+[24-Sep-2020 23:13:47 America/Fortaleza] PHP Fatal error:  Class 'Api' not found in /home2/inpakt79/public_html/erp/org.php on line 8
+[24-Sep-2020 23:13:57 America/Fortaleza] PHP Fatal error:  Class 'Api' not found in /home2/inpakt79/public_html/erp/org.php on line 8
+[24-Sep-2020 23:14:04 America/Fortaleza] PHP Fatal error:  Class 'Api' not found in /home2/inpakt79/public_html/erp/org.php on line 8
+[24-Sep-2020 23:14:48 America/Fortaleza] PHP Fatal error:  Class 'Api' not found in /home2/inpakt79/public_html/erp/org.php on line 8
+[24-Sep-2020 23:15:25 America/Fortaleza] PHP Warning:  require_once(../../apiConnect/api.class.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/org.php on line 3
+[24-Sep-2020 23:15:25 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../../apiConnect/api.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/org.php on line 3
+[24-Sep-2020 23:15:27 America/Fortaleza] PHP Warning:  require_once(../../apiConnect/api.class.php): failed to open stream: No such file or directory in /home2/inpakt79/public_html/erp/org.php on line 3
+[24-Sep-2020 23:15:27 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../../apiConnect/api.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/inpakt79/public_html/erp/org.php on line 3
+[25-Sep-2020 14:16:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/inpakt79/public_html/erp/title.php on line 7
+[25-Sep-2020 14:16:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/inpakt79/public_html/erp/title.php on line 7
+[25-Sep-2020 14:16:56 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/inpakt79/public_html/erp/title.php on line 7
+[25-Sep-2020 14:17:12 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/inpakt79/public_html/erp/title.php on line 7
+[25-Sep-2020 14:17:36 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/inpakt79/public_html/erp/revisao.php on line 8
+[25-Sep-2020 14:18:07 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/inpakt79/public_html/erp/revisao.php on line 8
+[25-Sep-2020 14:19:39 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/inpakt79/public_html/erp/title.php on line 7
+[25-Sep-2020 14:19:57 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/inpakt79/public_html/erp/descricao.php on line 7
+[25-Sep-2020 14:34:26 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home2/inpakt79/public_html/erp/dadospessoais.php on line 8
+[25-Sep-2020 15:56:58 America/Fortaleza] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home2/inpakt79/public_html/erp/setup2.php on line 17
+[25-Sep-2020 15:57:41 America/Fortaleza] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home2/inpakt79/public_html/erp/setup2.php on line 13
+[25-Sep-2020 15:57:41 America/Fortaleza] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home2/inpakt79/public_html/erp/setup2.php on line 14
+[26-Sep-2020 18:12:59 America/Fortaleza] PHP Parse error:  syntax error, unexpected ''automated'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/inpakt79/public_html/erp/setup1.php on line 6
+[26-Sep-2020 18:15:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home2/inpakt79/public_html/erp/setup1.php on line 4
+[26-Sep-2020 18:15:39 America/Fortaleza] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home2/inpakt79/public_html/erp/setup1.php on line 4
+[26-Sep-2020 18:21:19 America/Fortaleza] PHP Fatal error:  Class 'Api' not found in /home2/inpakt79/public_html/erp/setup1.php on line 9
+[26-Sep-2020 18:22:21 America/Fortaleza] PHP Fatal error:  Class 'Api' not found in /home2/inpakt79/public_html/erp/setup1.php on line 10
+[26-Sep-2020 18:54:18 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/inpakt79/public_html/erp/setup1.php on line 8
+[26-Sep-2020 19:06:39 America/Fortaleza] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /home2/inpakt79/apiConnection/api.class.php on line 38
+[26-Sep-2020 19:06:54 America/Fortaleza] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /home2/inpakt79/apiConnection/api.class.php on line 38
+[26-Sep-2020 19:14:52 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/inpakt79/public_html/erp/org.php on line 11
+[26-Sep-2020 19:15:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/inpakt79/public_html/erp/org.php on line 12
+[26-Sep-2020 19:15:27 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/inpakt79/public_html/erp/org.php on line 12
+[26-Sep-2020 19:15:29 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/inpakt79/public_html/erp/org.php on line 12
+[26-Sep-2020 19:16:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/inpakt79/public_html/erp/org.php on line 12
+[26-Sep-2020 19:17:57 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/inpakt79/public_html/erp/org.php on line 14
+[27-Sep-2020 19:20:59 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/inpakt79/public_html/erp/login.php on line 22
+[27-Sep-2020 19:37:50 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 426
+[27-Sep-2020 19:38:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 427
+[27-Sep-2020 19:38:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 427
+[27-Sep-2020 19:39:17 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:39:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:39:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:39:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:41:29 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:41:36 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:41:44 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:41:45 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:41:49 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:43:42 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:44:45 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:44:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:44:59 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:50:04 America/Fortaleza] PHP Parse error:  syntax error, unexpected '?>' in /home2/inpakt79/public_html/erp/dashboard.php on line 430
+[27-Sep-2020 19:52:14 America/Fortaleza] PHP Fatal error:  Class 'Api' not found in /home2/inpakt79/public_html/erp/dashboard.php on line 10
+[27-Sep-2020 21:59:38 America/Fortaleza] PHP Fatal error:  Cannot use [] for reading in /home2/inpakt79/public_html/erp/dashboard.php on line 425
+[27-Sep-2020 22:36:05 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 423
+[27-Sep-2020 22:36:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 424
+[27-Sep-2020 22:37:18 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 424
+[27-Sep-2020 22:37:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 424
+[27-Sep-2020 22:37:33 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 424
+[27-Sep-2020 22:37:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 424
+[27-Sep-2020 22:37:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 424
+[27-Sep-2020 22:37:59 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 424
+[27-Sep-2020 22:38:38 America/Fortaleza] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 428
+[27-Sep-2020 22:39:22 America/Fortaleza] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 429
+[27-Sep-2020 22:43:57 America/Fortaleza] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 429
+[27-Sep-2020 22:43:59 America/Fortaleza] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 429
+[27-Sep-2020 22:44:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 429
+[27-Sep-2020 22:44:42 America/Fortaleza] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 429
+[27-Sep-2020 22:47:06 America/Fortaleza] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 429
+[27-Sep-2020 23:00:26 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/inpakt79/public_html/erp/dashboard.php on line 432
+[27-Sep-2020 23:02:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/inpakt79/public_html/erp/dashboard.php on line 429
+[27-Sep-2020 23:02:22 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/inpakt79/public_html/erp/dashboard.php on line 429
+[27-Sep-2020 23:02:25 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/inpakt79/public_html/erp/dashboard.php on line 429
+[28-Sep-2020 19:16:16 America/Fortaleza] PHP Fatal error:  Class 'Api' not found in /home2/inpakt79/public_html/erp/listacasos.php on line 12
+[28-Sep-2020 19:16:56 America/Fortaleza] PHP Fatal error:  Class 'Api' not found in /home2/inpakt79/public_html/erp/listacasos.php on line 13
+[28-Sep-2020 21:01:39 America/Fortaleza] PHP Warning:  curl_getinfo(): 5 is not a valid cURL handle resource in /home2/inpakt79/apiConnection/api.class.php on line 47
+[28-Sep-2020 21:02:26 America/Fortaleza] PHP Warning:  curl_getinfo(): 5 is not a valid cURL handle resource in /home2/inpakt79/apiConnection/api.class.php on line 47
+[28-Sep-2020 21:09:50 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/inpakt79/apiConnection/api.class.php on line 48
+[28-Sep-2020 21:10:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/inpakt79/apiConnection/api.class.php on line 48
+[28-Sep-2020 21:11:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}' in /home2/inpakt79/apiConnection/api.class.php on line 50
+[28-Sep-2020 21:21:44 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/inpakt79/public_html/erp/listacasos.php on line 32
+[28-Sep-2020 21:22:10 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/inpakt79/public_html/erp/listacasos.php on line 30
+[28-Sep-2020 21:22:22 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/inpakt79/public_html/erp/listacasos.php on line 22
+[28-Sep-2020 21:22:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/inpakt79/public_html/erp/listacasos.php on line 21
+[28-Sep-2020 21:24:25 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/inpakt79/public_html/erp/listacasos.php on line 30

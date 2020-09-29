@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html>
+<header>
+	<meta title="Gestão consentimento"></meta>
+	
+	<meta charset="utf-8"></meta>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" ></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" ></script>
+
+	<script src="./script.js"></script>
+	<style>
+		@font-face{
+
+			src: url(fonts/VisbyCF-Bold.otf);
+			font-family: VisbyCF-Bold;
+			font-weight: bold;
+		}
+		@font-face{
+			src:url(fonts/VisbyCF-Medium.otf);
+			font-family: VisbyCF-Medium;
+			font-weight: bold;
+		}
+		#inputTitle{
+			height: 50px;
+			width: 355px;
+			background-color: #d1d1d1;
+			opacity: 1;
+			padding: 5px 5px 5px 5px;
+			border: none;
+		}
+		input:focus{
+			box-shadow: 0 0 0 0;
+   			border: 0 none;
+    		outline: 0;
+		}
+		#title{
+			font-size: 30px;
+			font-family: VisbyCF-Bold;
+		}
+		#description{
+			font-size: 16px;
+			font-family: VisbyCF-Medium;
+		}
+	</style>
+</header>
+<body id="myBody"style="background-color: #2BC6FC">
+
+	<form style="margin-left: 10%; margin-right: 10%; margin-top:5%; margin-bottom: 10%;">
+		<div class="card text-center" style="padding-left: 25%; padding-right: 25%;">
+			<!--      UgA Uga              -->
+				<div class="card-body">
+					<br><br>
+					<img src="assets/CompositeLayer@1X.png" alt="logo">
+					<br>
+					<br>
+					<br>
+					<h5 id="title" style="color: '#12ddc7c'" class="card-title" >Crie o seu Centro de Privacidade</h5>
+					<br>
+					<div class="card-text-center"
+						id=description>Sua organização terá um site customizado exclusivo para os seusu clientes gerenciarem seus dados e consentimentos.<p>Vamos cria-lo!</p></div>
+                        <br>
+                    <div class="card-text-center"
+                        id=description>Passo 1: escolha o seu subdomínio</div>                   
+                    <br>
+					<div class="card-text-center">
+						<input 	id="inputTitle" 
+								name="inputTitle" 
+								type="text" 
+								class="col-8"
+								placeholder="suaempresa.inpakta.com.br">
+                    </div>
+                    <br>
+                    <div class="card-text-center" 
+                        id=description>Passo 2: escolha a cor do seu site</div>
+					<div>
+			<br>
+                  
+                    	<img src="img/vermelho.png" class="rounded-circle" width="40px">
+			<img src="img/laranja.png" class="rounded-circle" width="40px">
+			<img src="img/azulescuro.png" class="rounded-circle" width="40px">
+			<img src="img/azulclaro.png" class="rounded-circle" width="40px">
+			<img src="img/verde.png" class="rounded-circle" width="40px">
+			<img src="img/roda.png" class="rounded-circle" width="40px">
+
+                    
+                    </div>
+
+						<br><br>
+						<a href="setup3.html" class="btn btn-outline-primary col-3">VOLTAR</a>
+						<a 	href="setupfinal.html" 
+							class="btn btn-outline-primary col-3" 
+							style="background-color: #2BC6FC;">
+							<span style="color:aliceblue;font-family: VisbyCF-Bold;">PRÓXIMO</span></a>
+					
+					<br><br>	
+					</div>
+				</iv>
+		</div>
+	</form>
+</body>
+</html>
