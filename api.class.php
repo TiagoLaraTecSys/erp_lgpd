@@ -100,7 +100,7 @@ class Api{
 
 	public static function createSubdomain($subdomain){
 		$cpanelusername = 'inpakt79';
-		$cpanelpassword = '88Yfh3dX0y';
+		$cpanelpassword = '';
 		$domain = 'inpakta.com.br';
 		$directory = "/public_html/subdominios/";
 
