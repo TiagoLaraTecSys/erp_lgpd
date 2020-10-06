@@ -2,7 +2,6 @@
 
 class Api{
 
-
 	public static function ApiConnectPOST($url,$body){
 
 		$ch = curl_init();
@@ -23,12 +22,21 @@ class Api{
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 		curl_setopt($ch, CURLOPT_URL,$url);
 		curl_setopt($ch, CURLOPT_POST,1);
-		curl_setopt($ch, CURLOPT_POSTFIELDS, $body);
+		curl_setopt($ch, CURLOPT_POSTFIELDS, ($body));
 		curl_setopt($ch, CURLOPT_HTTPHEADER,$header);
 		
 		$ret = curl_exec($ch);
-		curl_close ($ch);
-		return $ret;
+		$info = curl_getinfo($ch);
+		if(curl_errno($ch)){
+			return $ret;
+			curl_close ($ch);
+		}
+		if ($url == 'https://inpaktaservic.herokuapp.com/login'){
+			curl_close ($ch);
+			return $ret;
+		} 
+			return array('body' => $ret, 'status' =>$info['http_code']);
+			curl_close ($ch);	
 	}
 
 	public static function ApiPUT($url,$body,$authToken){
@@ -65,6 +73,19 @@ class Api{
 		curl_close ($ch);
 		return $ret;
 	}
+
+	public static function ApiValidateCode($code){
+		$ch = curl_init();
+		$url = "https://inpaktaservice.herokuapp.com/subject?validatecode=$code";
+		
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+		curl_setopt($ch, CURLOPT_CUSTOMREQUEST,"PUT");
+		curl_setopt($ch, CURLOPT_URL, $url);
+		$ret = curl_exec($ch);
+		curl_close ($ch);
+		return $ret;
+	}
+
 	public static function ApiGETorganization($subDomain){
 		$ch = curl_init();
 		$url = "https://inpaktaservice.herokuapp.com/cliente/org?subDominio=$subDomain";
